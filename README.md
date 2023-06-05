@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Thaslim Farook
-- 👀 I’m interested in ....
 - 🌱 I’m currently learning Typescript, Next.js & React Native
 
 ## 🌐 Socials:

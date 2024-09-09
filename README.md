@@ -1,4 +1,13 @@
-- 👋 Hi, I’m Thaslim
+Hi 👋 My name is Thaslim Farook
+==============================
+
+Full Stack Developer
+---------------------------------
+
+Experienced in designing and developing responsive and dynamic websites and web apps.Proficient with Reactjs, Nextjs, Expressjs, Nestjs along with modern libraries and frameworks. Also proficient in databases such as Mongodb and Postgresql.
+
+* ✉️ You can contact me at [thaslim313@gmail.com](mailto:thaslim313@gmail.com)
+* 🤝 I'm open to collaborating on coding projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thaslim.farook) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamthaslim) 

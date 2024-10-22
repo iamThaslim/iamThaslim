@@ -8,7 +8,7 @@ Experienced in designing and developing responsive and dynamic websites and web 
 
 🌱Learning TypeScript, React Native, AWS
 
-* ✉️ You can contact me at [thaslim313@gmail.com](mailto:thaslim313@gmail.com)
+* ✉️ You can contact me at [thaslim313@duck.com](mailto:thaslim313@duck.com)
 * 🤝 I'm open to collaborating on coding projects.
 
 <h2>Things I code with:</h2>

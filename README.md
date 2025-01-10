@@ -1,7 +1,7 @@
 Hi 👋 My name is Thaslim Farook
 ==============================
 
-Full Stack Developer
+Software Engineer
 ---------------------------------
 
 Experienced in designing and developing responsive and dynamic websites and web apps.Proficient with Reactjs, Nextjs, Expressjs, Nestjs along with modern libraries and frameworks. Also proficient in databases such as Mongodb and Postgresql.

@@ -6,7 +6,7 @@ Software Engineer
 
 Experienced in designing and developing responsive and dynamic websites and web apps.Proficient with Reactjs, Nextjs, Expressjs, Nestjs along with modern libraries and frameworks. Also proficient in databases such as Mongodb and Postgresql.
 
-🌱Learning TypeScript, React Native, AWS
+🌱Learning TypeScript, React Native, AWS, Python
 
 * ✉️ You can contact me at [thaslim313@duck.com](mailto:thaslim313@duck.com)
 * 🤝 I'm open to collaborating on coding projects.
